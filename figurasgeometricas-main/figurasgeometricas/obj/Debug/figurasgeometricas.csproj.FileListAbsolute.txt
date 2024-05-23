@@ -1,0 +1,10 @@
+E:\figurasgeometricas\bin\Debug\figurasgeometricas.exe.config
+E:\figurasgeometricas\bin\Debug\figurasgeometricas.exe
+E:\figurasgeometricas\bin\Debug\figurasgeometricas.pdb
+E:\figurasgeometricas\obj\Debug\figurasgeometricas.csproj.AssemblyReference.cache
+E:\figurasgeometricas\obj\Debug\figurasgeometricas.Form1.resources
+E:\figurasgeometricas\obj\Debug\figurasgeometricas.Properties.Resources.resources
+E:\figurasgeometricas\obj\Debug\figurasgeometricas.csproj.GenerateResource.cache
+E:\figurasgeometricas\obj\Debug\figurasgeometricas.csproj.CoreCompileInputs.cache
+E:\figurasgeometricas\obj\Debug\figurasgeometricas.exe
+E:\figurasgeometricas\obj\Debug\figurasgeometricas.pdb
