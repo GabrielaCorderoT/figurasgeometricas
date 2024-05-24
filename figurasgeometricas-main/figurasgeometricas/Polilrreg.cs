@@ -8,7 +8,7 @@ namespace figurasgeometricas
 {
     class Polilrreg:Figura
     {
-       public PoliIrreg(float lado1)
+       public Polilrreg(float lado1)
         { //radio se va a leer de la caja de texto con
             //usando el boton guardar
             Lado1 = lado1;
@@ -32,7 +32,7 @@ namespace figurasgeometricas
         }
     }
 
-    class Rombo : PoliIrreg //clase nieta hereda metodos y lado1 del abuelo figura
+    class Rombo : Polilrreg //clase nieta hereda metodos y lado1 del abuelo figura
     {         
         private float diagmay;
         private float diagmen;
@@ -92,7 +92,7 @@ namespace figurasgeometricas
             throw new NotImplementedException();
         }
     }
-    class Trapecio : PoliIrreg
+    class Trapecio : Polilrreg
     {
         private float base1;
         private float base2;
@@ -171,7 +171,7 @@ namespace figurasgeometricas
             throw new NotImplementedException();
         }
     }
-    class Paralelogramo : PoliIrreg
+    class Paralelogramo : Polilrreg
     {
         private float base1;
         private float altura;
